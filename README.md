@@ -19,7 +19,7 @@ The analysis uses two related tables:
 - **Employee:** 1,000 employee profiles containing department, employment, compensation, work arrangement, commute, and location attributes.
 - **Satisfaction:** 3,711 survey responses from 984 employees, dated January 2021 through December 2023.
 
-The dataset was obtained from Kaggle and is structured as a synthetic corporate employee-satisfaction dataset. The original dataset URL and redistribution license were not retained, so the separate source workbook is not republished here. The packaged Tableau workbook is also withheld from the public repository because it contains an embedded employee-level extract with IDs, ZIP codes, salaries, and other workforce attributes.
+The dataset was provided as course material and is structured as a simulated corporate employee-satisfaction dataset. The separate source workbook is not republished. With authorization from the project owner, the packaged Tableau workbook is included and contains the extract used in the analysis.
 
 ## Process
 
@@ -62,6 +62,7 @@ More detail is available in [Methodology](docs/methodology.md) and the [Data Dic
 
 ## Project Files
 
+- [Packaged Tableau workbook](tableau/employee-satisfaction-analysis.twbx)
 - [Dashboard image](images/employee-satisfaction-dashboard.png)
 - [Methodology](docs/methodology.md)
 - [Data dictionary](docs/data-dictionary.md)
