@@ -2,6 +2,12 @@
 
 An interactive Tableau analysis of synthetic employee survey data designed to identify differences in workplace satisfaction across departments, compensation levels, locations, and time.
 
+## Main Business Question
+
+> Where are the largest employee-satisfaction differences, which workplace concerns accompany them, and where should leadership investigate first?
+
+See the complete [Phase 2 Business Understanding](docs/02_business_understanding.md) and [Phase 3 Data Understanding](docs/03_data_understanding.md).
+
 ![Employee Satisfaction Analysis dashboard](images/employee-satisfaction-dashboard.png)
 
 ## Business Questions
@@ -66,3 +72,5 @@ More detail is available in [Methodology](docs/methodology.md) and the [Data Dic
 - [Dashboard image](images/employee-satisfaction-dashboard.png)
 - [Methodology](docs/methodology.md)
 - [Data dictionary](docs/data-dictionary.md)
+- [Phase 2 Business Understanding](docs/02_business_understanding.md)
+- [Phase 3 Data Understanding](docs/03_data_understanding.md)
